@@ -1,0 +1,17 @@
+# Build artifacts
+build_ghdl/
+work-obj08.cf
+*.o
+*.cf
+*.vcd
+*.ghw
+*.lst
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temporary editor files
+*~
+*.swp
+*.bak
